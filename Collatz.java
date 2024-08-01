@@ -1,0 +1,19 @@
+/** Class that prints the Collatz sequence starting from a given number.
+ *  @author YOUR NAME HERE
+ */
+public class Collatz {
+
+    /**
+     * Returns for given integer n, the next number in Collatz sequence, i.e.
+     * n/2 if n is even
+     * 3n + 1 if n is odd
+     * @param an integer n
+     * @return the next number in Collatz sequence
+     */
+    public static int nextNumber(int n) {
+    }
+
+    public static void main(String[] args) {
+    }
+}
+
