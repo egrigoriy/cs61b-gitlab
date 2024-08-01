@@ -26,7 +26,6 @@ public class Collatz {
 	    System.out.print(n + "");
 	    while (n != 2) {
 	    }
-
     }
 }
 
